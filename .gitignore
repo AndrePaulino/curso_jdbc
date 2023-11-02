@@ -48,3 +48,6 @@ replay_pid*
 
 .LCK*
 # End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode
+
+.env
+*.lst
